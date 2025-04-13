@@ -1,9 +1,9 @@
 ---
-title: "Apache Superset"
-ring: trial
+title: "PostgreSQL"
+ring: adopt
 quadrant: platforms-and-operations
 tags: [new]
 ---
 
-Apache Superset - BI аналитика
+PostgreSQL
 
